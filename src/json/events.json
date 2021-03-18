@@ -2,8 +2,32 @@
     "data": [
         {
             "isNew": true,
+            "title": "Celebration of 75th anniversary -Azadi ka Amrut Mahotsav",
+            "link": "http://iiitt.ac.in/downloads/events/EBSB_Celebration_of_75thAnniversary.pdf",
+            "text": "Celebration of 75th anniversary -Azadi ka Amrut Mahotsav"
+        },
+        {
+            "isNew": true,
+            "title": "Women's Day Celebration",
+            "link": "http://iiitt.ac.in/downloads/events/Womens_Day_Brochure.pdf",
+            "text": "Women's Day Celebration"
+        },
+        {
+            "isNew": true,
+            "title": "National Science Day Celebration",
+            "link": "http://iiitt.ac.in/downloads/events/National_Science_Day_Invitation.pdf",
+            "text": "National Science Day Celebration"
+        },
+        {
+            "isNew": true,
+            "title": "Five days Workshop on NI Graphical System Design Platform for Engineering Education and Research",
+            "link": "http://iiitt.ac.in/downloads/events/NI_Workshop_Updated.pdf",
+            "text": "Five days Workshop on NI Graphical System Design Platform for Engineering Education and Research"
+        },
+        {
+            "isNew": true,
             "title": "eCalendar 2021 - IIIT Tiruchirappalli",
-            "link": "https://drive.google.com/file/d/12gxyhkRho-UT9hC-lXgGBUNgjy9E8BQW/view?usp=sharing",
+            "link": "https://drive.google.com/file/d/12gxyhkRho-UT9hC-lXgGBUNgjy9E8BQW/view",
             "text": "eCalendar 2021 - IIIT Tiruchirappalli"
         },
         {
@@ -11,6 +35,36 @@
             "title": "Third issue of e-magazine 'AIKYAM' (21 Jan 2021)",
             "link": "https://drive.google.com/file/d/1QQudXKYk5c8Gp0V0MfGuz5HVCEUBsfcN/view?usp=sharing",
             "text": "Third issue of e-magazine 'AIKYAM' (21 Jan 2021)"
+        },
+        {
+            "isNew": true,
+            "title": "Second issue of e-magazine 'AIKYAM' (17 Nov 2020)",
+            "link": "https://drive.google.com/file/d/1AqUWKFRSpjYP7zgXnTsjfI7UTmX5gvc3/view",
+            "text": "Second issue of e-magazine 'AIKYAM' (17 Nov 2020)"
+        },
+        {
+            "isNew": true,
+            "title": "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On '3D Printing and Design from 01.02.2020 to 05.02.2020'",
+            "link": "http://iiitt.ac.in/downloads/events/Brochure_FDP_3D_printing.pdf",
+            "text": "AICTE Training and Learning (ATAL) Academy Sponsored Online Faculty Development Programme On '3D Printing and Design from 01.02.2021 to 05.02.2021'"
+        },
+        {
+            "isNew": true,
+            "title": "Fee structure for Even Semester AY 2019-20",
+            "link": "http://iiitt.ac.in/downloads/notices/Fee-Structure-(Even-Semester).pdf",
+            "text": "Fee structure for Even Semester AY 2019-20"
+        },
+        {
+            "isNew": true,
+            "title": "Fee Structure for the AY 2019-20",
+            "link": "http://iiitt.ac.in/downloads/notices/FeeStructure19-20.pdf",
+            "text": "Fee Structure for Higher Semesters (III, V, VII) for the AY 2019-20"
+        },
+        {
+            "isNew": true,
+            "title": "Fee Structure for the AY 2019-20 (I semester)",
+            "link": "http://iiitt.ac.in/downloads/notices/Fee%20Structure%202019-20.pdf",
+            "text": "Fee Structure for the AY 2019-20 (I semester)"
         },
         {
             "isNew": false,

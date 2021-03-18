@@ -1,5 +1,50 @@
 {
     "data": [
+   	  {
+            "isNew": true,
+            "title": "PhD: CT-II 2020-21 Even Semester",
+            "link": "/downloads/notices/Exam_Schedule_CT2_2020-21_EVEN_PhD.pdf",
+            "text": "PhD: CT-II 2020-21 Even Semester"
+        },
+         {
+            "isNew": true,
+            "title": "CT-II 2020-21 Even Semester",
+            "link": "/downloads/notices/Exam_Schedule_CT-II_2020-21_EVEN.pdf",
+            "text": "CT-II 2020-21 Even Semester"
+        },
+        
+   	 {
+            "isNew": true,
+            "title": "Revised: First Year End Semester Exam Schedule ODD 2020-21",
+            "link": "/downloads/notices/Exam_Schedule_END_2020-21_ODD.pdf",
+            "text": "Revised: First Year End Semester Exam Schedule ODD 2020-21"
+        },
+        {
+            "isNew": true,
+            "title": "Timetable Lab Final exam: First semester 20-21",
+            "link": "/downloads/notices/Timetable_Lab_Final_exam.pdf",
+            "text": "Timetable Lab Final exam: First semester 20-21"
+        },
+   	 {
+            "isNew": true,
+            "title": "CT2 Exam Schedule ODD Semester 2020-21",
+            "link": "/downloads/notices/First_semester_Exam_Schedule_CT2_2020-21_ODD.pdf",
+            "text": "CT2 Exam Schedule ODD Semester 2020-21"
+        },
+        {
+            "isNew": true,
+            "title": "Exam Schedule CT1 2020-21 B.Tech Even Semester",
+            "link": "/downloads/notices/Exam_Schedule_CT1_2020-21_EVEN.pdf",
+            "text": "Exam Schedule CT1 2020-21 B.Tech Even Semester"
+        },
+        
+   	 {
+            "isNew": true,
+            "title": "Exam Schedule CT1 2020-21 Ph.D Even Semester",
+            "link": "/downloads/notices/Ph.D_Exam_CT1_2020-21_EVEN.pdf",
+            "text": "Exam Schedule CT1 2020-21 Ph.D Even Semester"
+        },
+        
         {
             "isNew": true,
             "title": "72nd Republic Day Celebration - 26.01.2021",

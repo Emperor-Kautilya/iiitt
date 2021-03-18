@@ -1,5 +1,19 @@
 {
   "data": [
+     {
+      "name": "IIITT/2021/EEQ/2020/000327/Eq-01: Invitation for Quotations for supply of Debinding and Sintering unit with Electric Muffle Furnace, April 7, 2021",
+      "description": "IIITT/2021/EEQ/2020/000327/Eq-01: Invitation for Quotations for supply of Debinding and Sintering unit with Electric Muffle Furnace, April 7, 2021",
+      "url": "/tenders/Debinding_and_sinteringunit16.03.2021.pdf",
+      "open": true,
+      "date": "16/03/2021"
+    },
+    {
+      "name": "IIITT/2021/EEQ/2020/000327/Eq-02: Invitation for Quotations for supply of Fused Filament Fabrication setup, April 7, 2021",
+      "description": "IIITT/2021/EEQ/2020/000327/Eq-02: Invitation for Quotations for supply of Fused Filament Fabrication setup, April 7, 2021",
+      "url": "/tenders/FFFsetup16.03.2021.pdf",
+      "open": true,
+      "date": "16/03/2021"
+    },
     {
       "name": "Tender for Laptop - June 2020",
       "description": "Tender for Laptop - June 2020",
@@ -50,4 +64,4 @@
       "date": "04/05/2017"
     }
   ]
-}
+}2
